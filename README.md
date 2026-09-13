@@ -1,69 +1,164 @@
 # Hi, I'm Luyanda Ndaba 👋
 
-💻 Junior Software Developer (Backend & API Focus)
+### AI & Software Engineer | Agentic AI • RAG • Cloud • Full-Stack Development
+
 📍 Cape Town, South Africa
+
+I'm an Information Technology graduate and software developer focused on building
+AI-powered applications, agentic workflows, backend systems and cloud-based solutions.
+
+My recent work includes multi-agent systems, Retrieval-Augmented Generation (RAG),
+semantic search, AI evaluation, REST APIs and Azure-based data pipelines.
+
+I enjoy turning ideas into working systems, testing them, measuring their performance,
+and iterating toward production-ready solutions.
 
 ---
 
-## 🚀 About Me
+## 🤖 AI & Agentic Engineering
 
-I’m a software developer focused on building **real-world systems**, especially backend services and APIs.
-
-I’ve worked on projects like booking systems, service platforms, and business websites — solving practical problems like request handling, authentication, and system workflows.
+- LangGraph multi-agent systems
+- LangChain & LCEL
+- Retrieval-Augmented Generation (RAG)
+- Azure OpenAI
+- Azure AI Search
+- Embeddings & vector search
+- Tool calling & agent routing
+- Prompt engineering
+- AI evaluation & reranking
+- Self-critiquing AI workflows
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, JavaScript, C++, PHP
-**Backend:** Node.js, Express, Spring Boot
-**Frontend:** HTML, CSS, Responsive Design
-**Databases:** PostgreSQL, MySQL
-**Tools:** Git, Postman, REST APIs
+### Languages
+`Python` `Java` `JavaScript` `SQL`
+
+### AI
+`LangGraph` `LangChain` `LCEL` `Azure OpenAI` `RAG`
+`Embeddings` `Vector Search` `Chroma`
+
+### Backend
+`Spring Boot` `FastAPI` `Node.js` `REST APIs`
+
+### Frontend
+`React` `Streamlit` `HTML` `CSS`
+
+### Data & Cloud
+`Microsoft Azure` `Azure AI Search` `Azure Functions`
+`Azure Data Factory` `ADLS Gen2` `Cosmos DB`
+`Synapse Serverless SQL` `MySQL` `PostgreSQL`
+
+### Development
+`Git` `GitHub` `pytest` `Postman` `Cursor`
+`GitHub Copilot` `VS Code`
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🚚 Tow Truck Assistance App
+## 🤖 Multi-Agent Customer Support System
 
-Backend system built with Spring Boot
+**Python • LangGraph • Azure OpenAI • Streamlit • pytest**
 
-* Request lifecycle (PENDING → ACCEPTED → COMPLETED)
-* Driver assignment logic
-* REST API endpoints for managing requests
+Built an agentic customer-support system with specialised:
 
----
+- First-line support agent
+- Technical support agent
+- Billing support agent
+- Sales agent
 
-### ✈️ Travel Booking System
+Implemented conditional routing, tool execution, structured hand-offs,
+conversation state, prompt caching and streaming.
 
-Full-stack booking platform
-
-* User authentication
-* Booking management system
-* Admin dashboard for managing requests
+✅ 23 automated tests passing
 
 ---
 
-### 🌐 Tourism Transport Website
+## 🔎 Retrieval-Augmented Generation & AI Evaluation
 
-Client-focused website for transport services
+**Python • LangChain • LCEL • Azure OpenAI • Chroma**
 
-* Mobile responsive design
-* Booking/request functionality
-* Lead generation focused
+Built a RAG pipeline over approximately 2,000 crypto-news records.
+
+Implemented:
+
+- Embeddings and semantic search
+- Vector retrieval
+- Reranking
+- Exact vs fuzzy retrieval evaluation
+- Faithfulness evaluation
+- Answer relevance evaluation
+
+Evaluation results included:
+
+- 20/20 faithfulness agreement
+- 18/20 answer relevance agreement
 
 ---
 
-## 📈 Currently Improving
+## 🧠 Self-Critiquing AI Agent
 
-* Backend architecture & system design
-* API security & authentication (JWT)
-* Database design & optimization
+**Python • LangChain • Azure OpenAI • Streamlit**
+
+Built an agent that follows:
+
+**Answer → Decompose → Verify → Revise**
+
+The system breaks an answer into claims, verifies them and produces an improved
+response through a bounded self-critique workflow.
 
 ---
 
-## 📫 Contact Me
+## ☁️ Azure Data Engineering Pipeline
 
-📧 Email: [luyanda.ndaba25@gmail.com](mailto:luyanda.ndaba25@gmail.com)
-🔗 LinkedIn: https://linkedin.com/in/luyanda-ndaba
+**Python • Azure Functions • ADLS Gen2 • REST APIs • Synapse SQL**
+
+Built a scheduled Azure ingestion pipeline that retrieves external API data,
+transforms it and stores structured JSON records in partitioned Azure Data Lake
+Storage.
+
+Implemented duplicate detection, ingestion timestamps and downstream
+Synapse Serverless SQL analytics.
+
+---
+
+## 🚗 Tow Truck Assistance Platform
+
+**Java • Spring Boot • REST API**
+
+Built a backend service for managing roadside assistance requests.
+
+Features include:
+
+- Request lifecycle management
+- Driver assignment logic
+- REST API endpoints
+- Persistent data storage
+
+---
+
+# 🌱 Currently Exploring
+
+- Production Agentic AI systems
+- Advanced RAG architectures
+- AI evaluation and observability
+- MCP and agent tools
+- Cloud-native AI applications
+- Software architecture and system design
+
+---
+
+# 🎯 Career Interests
+
+I'm particularly interested in opportunities involving:
+
+**AI Engineering • Agentic AI • Software Engineering • Backend Engineering • Data & AI Automation**
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn: https://linkedin.com/in/luyanda-ndaba  
+💻 GitHub: https://github.com/1luyanda
