@@ -12,7 +12,19 @@ semantic search, AI evaluation, REST APIs and Azure-based data pipelines.
 
 I enjoy turning ideas into working systems, testing them, measuring their performance,
 and iterating toward production-ready solutions.
+## Featured Projects
 
+- [TravelMate AI](https://github.com/1luyanda/travelmate-ai)
+  — Travel assistant using Azure OpenAI, LangGraph, MCP and Streamlit.
+
+- [Travel Planner](https://github.com/1luyanda/travel-planner)
+  — Team-built React and FastAPI travel planner. My focus: frontend development and API integration.
+
+- [Async Blob Job API](https://github.com/1luyanda/async-blob-job-api)
+  — Background data processing with FastAPI, Celery and Azure Blob Storage.
+
+- [Self-Critique Agent](https://github.com/1luyanda/langchain-self-critique-agent)
+  — AI workflow that extracts claims, checks Wikipedia evidence and revises its answer once.
 ---
 
 ## 🤖 AI & Agentic Engineering
